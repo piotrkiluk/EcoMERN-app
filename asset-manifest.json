@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EcoMERN-app/static/css/main.8f59ebc8.chunk.css",
-    "main.js": "/EcoMERN-app/static/js/main.d1885884.chunk.js",
-    "main.js.map": "/EcoMERN-app/static/js/main.d1885884.chunk.js.map",
+    "main.js": "/EcoMERN-app/static/js/main.e270692b.chunk.js",
+    "main.js.map": "/EcoMERN-app/static/js/main.e270692b.chunk.js.map",
     "runtime-main.js": "/EcoMERN-app/static/js/runtime-main.adf47f16.js",
     "runtime-main.js.map": "/EcoMERN-app/static/js/runtime-main.adf47f16.js.map",
     "static/js/2.dae6c71b.chunk.js": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.adf47f16.js",
     "static/js/2.dae6c71b.chunk.js",
     "static/css/main.8f59ebc8.chunk.css",
-    "static/js/main.d1885884.chunk.js"
+    "static/js/main.e270692b.chunk.js"
   ]
 }
