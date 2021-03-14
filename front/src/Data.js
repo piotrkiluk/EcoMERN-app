@@ -22,7 +22,7 @@ const data = {
             image: './images/CzekoladaPistacjowaMaliny.jpg',
             price: '16.50',
             brand: 'Madeline',
-            rating: 5.0,
+            rating: 4.5,
             numReviews: 20,
             description: 'Czekolada Pistacjowa z Malinami...'    
         },

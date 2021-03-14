@@ -104,8 +104,13 @@ img.medium {
 .price {
   font-size: 2.1rem;
 }
+
+/* Rating */ 
 .rating span{
   color: #f0c040;
   margin: 0.1rem;
+}
+.rating span:last-child {
+  color: #404040
 }
 
