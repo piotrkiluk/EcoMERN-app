@@ -5,12 +5,15 @@ import Product from './Components/Product'
 function App() {
   return (
     <div className="grid-container">
+
+
+
         <header className="row">
             <div>
-                <a href="/Home">HOME</a>
-                <a href="/About">O NAS</a>
-                <a href="/Contact">KONTAKT</a>
-                <a href="/Shop">SKLEP</a>
+                <a href="/Home">Home</a>
+                <a href="/About">O Nas</a>
+                <a href="/Contact">Kontakt</a>
+                <a href="/Shop">Sklep</a>
             </div>
             <div>
                 <img className="imageMadelineLogo" src="./images/Madeline-logo-slider.png" alt="Madeline"/> 
@@ -20,6 +23,9 @@ function App() {
                 <a href="/SignIn">Sign In</a>
             </div>
         </header>
+        
+
+
         
         <main>
             <div className="row center">   
