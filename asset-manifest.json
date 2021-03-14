@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/piotrkiluk/EcoMERN-app.git/static/css/main.8f59ebc8.chunk.css",
-    "main.js": "/piotrkiluk/EcoMERN-app.git/static/js/main.f8dd7f7a.chunk.js",
-    "main.js.map": "/piotrkiluk/EcoMERN-app.git/static/js/main.f8dd7f7a.chunk.js.map",
-    "runtime-main.js": "/piotrkiluk/EcoMERN-app.git/static/js/runtime-main.7ba2016f.js",
-    "runtime-main.js.map": "/piotrkiluk/EcoMERN-app.git/static/js/runtime-main.7ba2016f.js.map",
-    "static/js/2.dae6c71b.chunk.js": "/piotrkiluk/EcoMERN-app.git/static/js/2.dae6c71b.chunk.js",
-    "static/js/2.dae6c71b.chunk.js.map": "/piotrkiluk/EcoMERN-app.git/static/js/2.dae6c71b.chunk.js.map",
-    "static/js/3.c73288bd.chunk.js": "/piotrkiluk/EcoMERN-app.git/static/js/3.c73288bd.chunk.js",
-    "static/js/3.c73288bd.chunk.js.map": "/piotrkiluk/EcoMERN-app.git/static/js/3.c73288bd.chunk.js.map",
-    "index.html": "/piotrkiluk/EcoMERN-app.git/index.html",
-    "static/css/main.8f59ebc8.chunk.css.map": "/piotrkiluk/EcoMERN-app.git/static/css/main.8f59ebc8.chunk.css.map",
-    "static/js/2.dae6c71b.chunk.js.LICENSE.txt": "/piotrkiluk/EcoMERN-app.git/static/js/2.dae6c71b.chunk.js.LICENSE.txt"
+    "main.css": "/EcoMERN-app/static/css/main.8f59ebc8.chunk.css",
+    "main.js": "/EcoMERN-app/static/js/main.f8dd7f7a.chunk.js",
+    "main.js.map": "/EcoMERN-app/static/js/main.f8dd7f7a.chunk.js.map",
+    "runtime-main.js": "/EcoMERN-app/static/js/runtime-main.adf47f16.js",
+    "runtime-main.js.map": "/EcoMERN-app/static/js/runtime-main.adf47f16.js.map",
+    "static/js/2.dae6c71b.chunk.js": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js",
+    "static/js/2.dae6c71b.chunk.js.map": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js.map",
+    "static/js/3.c73288bd.chunk.js": "/EcoMERN-app/static/js/3.c73288bd.chunk.js",
+    "static/js/3.c73288bd.chunk.js.map": "/EcoMERN-app/static/js/3.c73288bd.chunk.js.map",
+    "index.html": "/EcoMERN-app/index.html",
+    "static/css/main.8f59ebc8.chunk.css.map": "/EcoMERN-app/static/css/main.8f59ebc8.chunk.css.map",
+    "static/js/2.dae6c71b.chunk.js.LICENSE.txt": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ba2016f.js",
+    "static/js/runtime-main.adf47f16.js",
     "static/js/2.dae6c71b.chunk.js",
     "static/css/main.8f59ebc8.chunk.css",
     "static/js/main.f8dd7f7a.chunk.js"
