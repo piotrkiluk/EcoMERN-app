@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/EcoMERN-app/static/css/main.21230bd7.chunk.css",
-    "main.js": "/EcoMERN-app/static/js/main.0b48eec5.chunk.js",
-    "main.js.map": "/EcoMERN-app/static/js/main.0b48eec5.chunk.js.map",
-    "runtime-main.js": "/EcoMERN-app/static/js/runtime-main.adf47f16.js",
-    "runtime-main.js.map": "/EcoMERN-app/static/js/runtime-main.adf47f16.js.map",
-    "static/js/2.dae6c71b.chunk.js": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js",
-    "static/js/2.dae6c71b.chunk.js.map": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js.map",
-    "static/js/3.c73288bd.chunk.js": "/EcoMERN-app/static/js/3.c73288bd.chunk.js",
-    "static/js/3.c73288bd.chunk.js.map": "/EcoMERN-app/static/js/3.c73288bd.chunk.js.map",
+    "main.js": "/EcoMERN-app/static/js/main.4d4c32a1.chunk.js",
+    "main.js.map": "/EcoMERN-app/static/js/main.4d4c32a1.chunk.js.map",
+    "runtime-main.js": "/EcoMERN-app/static/js/runtime-main.007d1123.js",
+    "runtime-main.js.map": "/EcoMERN-app/static/js/runtime-main.007d1123.js.map",
+    "static/js/2.d50339f7.chunk.js": "/EcoMERN-app/static/js/2.d50339f7.chunk.js",
+    "static/js/2.d50339f7.chunk.js.map": "/EcoMERN-app/static/js/2.d50339f7.chunk.js.map",
+    "static/js/3.50651f54.chunk.js": "/EcoMERN-app/static/js/3.50651f54.chunk.js",
+    "static/js/3.50651f54.chunk.js.map": "/EcoMERN-app/static/js/3.50651f54.chunk.js.map",
     "index.html": "/EcoMERN-app/index.html",
     "static/css/main.21230bd7.chunk.css.map": "/EcoMERN-app/static/css/main.21230bd7.chunk.css.map",
-    "static/js/2.dae6c71b.chunk.js.LICENSE.txt": "/EcoMERN-app/static/js/2.dae6c71b.chunk.js.LICENSE.txt"
+    "static/js/2.d50339f7.chunk.js.LICENSE.txt": "/EcoMERN-app/static/js/2.d50339f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.adf47f16.js",
-    "static/js/2.dae6c71b.chunk.js",
+    "static/js/runtime-main.007d1123.js",
+    "static/js/2.d50339f7.chunk.js",
     "static/css/main.21230bd7.chunk.css",
-    "static/js/main.0b48eec5.chunk.js"
+    "static/js/main.4d4c32a1.chunk.js"
   ]
 }
