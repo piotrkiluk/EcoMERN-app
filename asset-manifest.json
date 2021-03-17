@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/EcoMERN-app/static/css/main.21230bd7.chunk.css",
-    "main.js": "/EcoMERN-app/static/js/main.903817e3.chunk.js",
-    "main.js.map": "/EcoMERN-app/static/js/main.903817e3.chunk.js.map",
+    "main.css": "/EcoMERN-app/static/css/main.5e3f36b9.chunk.css",
+    "main.js": "/EcoMERN-app/static/js/main.ccfcb1d1.chunk.js",
+    "main.js.map": "/EcoMERN-app/static/js/main.ccfcb1d1.chunk.js.map",
     "runtime-main.js": "/EcoMERN-app/static/js/runtime-main.48f41c2c.js",
     "runtime-main.js.map": "/EcoMERN-app/static/js/runtime-main.48f41c2c.js.map",
-    "static/js/2.473bb32f.chunk.js": "/EcoMERN-app/static/js/2.473bb32f.chunk.js",
-    "static/js/2.473bb32f.chunk.js.map": "/EcoMERN-app/static/js/2.473bb32f.chunk.js.map",
+    "static/js/2.403637df.chunk.js": "/EcoMERN-app/static/js/2.403637df.chunk.js",
+    "static/js/2.403637df.chunk.js.map": "/EcoMERN-app/static/js/2.403637df.chunk.js.map",
     "static/js/3.be221977.chunk.js": "/EcoMERN-app/static/js/3.be221977.chunk.js",
     "static/js/3.be221977.chunk.js.map": "/EcoMERN-app/static/js/3.be221977.chunk.js.map",
     "index.html": "/EcoMERN-app/index.html",
-    "static/css/main.21230bd7.chunk.css.map": "/EcoMERN-app/static/css/main.21230bd7.chunk.css.map",
-    "static/js/2.473bb32f.chunk.js.LICENSE.txt": "/EcoMERN-app/static/js/2.473bb32f.chunk.js.LICENSE.txt"
+    "static/css/main.5e3f36b9.chunk.css.map": "/EcoMERN-app/static/css/main.5e3f36b9.chunk.css.map",
+    "static/js/2.403637df.chunk.js.LICENSE.txt": "/EcoMERN-app/static/js/2.403637df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48f41c2c.js",
-    "static/js/2.473bb32f.chunk.js",
-    "static/css/main.21230bd7.chunk.css",
-    "static/js/main.903817e3.chunk.js"
+    "static/js/2.403637df.chunk.js",
+    "static/css/main.5e3f36b9.chunk.css",
+    "static/js/main.ccfcb1d1.chunk.js"
   ]
 }
